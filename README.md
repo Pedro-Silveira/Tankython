@@ -1,8 +1,8 @@
-# TANKYTHON: A 3D Python + OpenGL Game
+# TANKYTHON: A Python + OpenGL Game
 
 ![Tela real capturada em 11/10/2023.](https://i.imgur.com/yT016sS.png)
 
-> Inspirado no jogo de 1985, Battle City, desenvolvido para o NES, o projeto nomeado “Tankython” trata-se de um jogo 3D escrito em Python com recursos da biblioteca PyOpenGL para a disciplina de Computação Gráfica da Universidade La Salle em Canoas - RS.
+> Inspirado no jogo de Battle City de Nintendo, o projeto nomeado “Tankython” trata-se de um jogo 3D escrito em Python com recursos da biblioteca PyOpenGL, desenvolvido para a disciplina de Computação Gráfica da Universidade La Salle em Canoas - RS.
 
 ## 💻 Pré-requisitos
 
