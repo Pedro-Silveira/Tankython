@@ -1,4 +1,4 @@
-# TANKYTHON: A Python + OpenGL Game
+# TANKYTHON: Jogo 3D em PyOpenGL
 
 ![Tela real capturada em 11/10/2023.](https://i.imgur.com/yT016sS.png)
 
